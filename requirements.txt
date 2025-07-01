@@ -3,8 +3,8 @@ torch
 librosa
 pydub
 matplotlib
-audiocraft @ git+https://github.com/facebookresearch/audiocraft.git
 soundfile
+audiocraft @ git+https://github.com/facebookresearch/audiocraft.git
+tqdm
 numpy
 scipy
-tqdm
