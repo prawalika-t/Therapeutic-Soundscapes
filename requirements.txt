@@ -5,3 +5,6 @@ pydub
 matplotlib
 audiocraft @ git+https://github.com/facebookresearch/audiocraft.git
 soundfile
+numpy
+scipy
+tqdm
