@@ -4,7 +4,8 @@ librosa
 pydub
 matplotlib
 soundfile
-audiocraft @ git+https://github.com/facebookresearch/audiocraft.git
+transformers
 tqdm
 numpy
 scipy
+pandas
