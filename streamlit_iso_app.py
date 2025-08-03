@@ -114,7 +114,7 @@ if st.button("Generate Music"):
     prompt = generate_prompt(start_mood, target_mood, genre)
 
     st.write(f"🎭 **Detected Mood**: {start_mood}")
-    st.write(f"🎯 **Target Mood (ISO Principle)**: {target_mood}")
+    st.write(f"🎯 **Target Mood**: {target_mood}")
     st.write(f"📝 **Prompt**: {prompt}")
 
     with st.spinner("Generating music..."):
